@@ -1,0 +1,1 @@
+// there will be rubbish values(not zero) in this array 

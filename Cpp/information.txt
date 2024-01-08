@@ -1,0 +1,1 @@
+Some exercise in this book named C++ primer.
